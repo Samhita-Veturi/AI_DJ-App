@@ -1,0 +1,32 @@
+.heading{
+    margin-top: 10px;
+    width: 90%;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 27px;
+}
+.note{
+    color: black;
+    font-size: 15px;
+}
+body{
+    background-size: cover;
+}
+#Speed{
+    float: left;
+}
+#Speed_Img{
+    border-radius: 100px;
+    width: 200px;
+}
+#Volume{
+    float: right;
+}
+#Volume_Img{
+    border-radius: 100px;
+    width: 200px;
+}
+canvas{
+    border: white dashed 2px;
+    border-radius: 20px;
+}
